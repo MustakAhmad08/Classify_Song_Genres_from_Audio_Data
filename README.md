@@ -1,0 +1,1 @@
+Developed Decision Tree and Logistic Regression models to classify songs into genres from The Echo Nest dataset., achieving 87% precision. Reduced dimensionality with Principal Component Analysis (PCA), retaining 85% of the variance with 6 components.
